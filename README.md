@@ -1,3 +1,9 @@
+
+[pmc6.txt](https://github.com/user-attachments/files/23622901/pmc6.txt)
+
+# NAME:Madhu Shrie J
+# REG.NO:212224100034
+
 # EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
 
 ### Aim:
